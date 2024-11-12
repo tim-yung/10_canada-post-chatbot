@@ -32,8 +32,7 @@ The chatbot leverages 25 PDF-based Canada Post guides as its primary data source
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/canada-post-chatbot.git
-cd canada-post-chatbot
+https://github.com/tim-yung/10_canada-post-chatbot.git
 ```
 
 ### 2. Install dependencies
